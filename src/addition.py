@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit
+# Mythili practice
 def add(a, b):
     return a + b
 
